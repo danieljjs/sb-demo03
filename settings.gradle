@@ -1,1 +1,3 @@
 rootProject.name = 'demo03'
+
+include 'Dockerfile'
